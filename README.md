@@ -11,4 +11,5 @@ I took the following steps to complete this minor project:
   5. I then proceeded towards making a dashboard in which I included the following functionalities:
      5a. Sales quantity and Revenue Records.
      5b. Line Chart plotting the revenue as a function of time
-     5c. Bar Graphs represting Revenue by Markets_Name, Revenue by Customer_name, Sales_Qty by Product_code and Revenue by Product_code.
+     5c. Bar Graphs represting Revenue by Markets_Name, Revenue by Customer_name, Sales_Qty by Product_code
+     5d. Pie Chart visualising Revenue earned by top 5 Products.
