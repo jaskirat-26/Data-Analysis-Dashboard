@@ -8,8 +8,4 @@ I took the following steps to complete this minor project:
   4. Subsequently I imported the data into Power BI. I then performed the following ETL(Extract|Transform|Load) operations:
      4a. I deleted the duplicate records.
      4b. Then I went ahead and converted USD to INR without using any currency table and formed a new attribute called normalised currency.
-  5. I then proceeded towards making a dashboard in which I included the following functionalities:
-     5a. Sales quantity and Revenue Records.
-     5b. Line Chart plotting the revenue as a function of time
-     5c. Bar Graphs represting Revenue by Markets_Name, Revenue by Customer_name, Sales_Qty by Product_code
-     5d. Pie Chart visualising Revenue earned by top 5 Products.
+  5. I then proceeded towards making a dashboard in which I made two pages which included the overview and a detailed analysis of the revenue.
